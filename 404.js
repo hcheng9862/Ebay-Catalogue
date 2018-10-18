@@ -3,7 +3,7 @@
 console.log("I'm here");
 
 var bd = document.body;
-bd.style.backgroundColor = "rgb(200, 0, 100)";
+bd.style.backgroundColor = "White";
 
 
 
