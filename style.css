@@ -1,8 +1,11 @@
 
-
+<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
 
 h1{
   color: "#178FDD";
+  font-size: 64px;
+    font-family: 'ubuntu', sans-serif;
+    text-align: center;
 }
 
 .navigation{
