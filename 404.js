@@ -8,7 +8,7 @@ bd.style.backgroundColor = "rgb(200, 0, 100)";
 
 
 var headerElement=document.createElement('h1')
-headerElement.textContent="There is no page that exists here. Creepy";
+headerElement.textContent="404 PAGE NOT FOUND";
 bd.appendChild(headerElement);
 headerElement.style.color = "rgb(0, 255, 75)";
 
